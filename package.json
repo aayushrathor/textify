@@ -1,0 +1,16 @@
+{
+  "name": "textify",
+  "version": "1.0.0",
+  "description": "Add text into images",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "sharp": "^0.30.7"
+  }
+}

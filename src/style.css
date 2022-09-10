@@ -1,0 +1,32 @@
+body {
+    background-color: #f9f9f9 !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    margin: 0;
+}
+
+.main-heading {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 20px 0 20px 0;
+    text-align: center;
+}
+
+.btn-container {
+    font-size: 24px;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px 0 20px 0;
+}
+
+.image-container {
+    text-align: center;
+    box-shadow: #999 0px 0px 10px;
+    margin: 60px 20% 20px 20%;
+    height: 600px;
+    width: 1200px;
+    border-radius: 12px;
+}
